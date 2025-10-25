@@ -17,9 +17,9 @@
 В Base Url вставляете https://api.laozhang.ai/v1   
 Заходите в ваш аккаунт и переходите во вкладку Token. В таблице Token Management будет одна строка. Жмёте на иконку копировать в последней колонке и вставляете текст в поле API Key. 
 
-!(https://github.com/N0U/laozhang-article/blob/master/jam.png?raw=true)
+![Jam](https://github.com/N0U/laozhang-article/blob/master/jam.png?raw=true)
 
-!(https://github.com/N0U/laozhang-article/blob/master/laozhang.png?raw=true)
+![Laozhang](https://github.com/N0U/laozhang-article/blob/master/laozhang.png?raw=true)
 
 В Model Providers нейронке распределены по названиям фирм:
 * OpenAi — GPT
